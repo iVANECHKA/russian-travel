@@ -1,0 +1,10 @@
+.header__lang-link {
+    margin-right: 18px;
+    text-decoration: underline;
+    color: white;
+}
+
+.header__lang-link:last-child {
+    margin-right: 0;
+    text-decoration: none;
+}
