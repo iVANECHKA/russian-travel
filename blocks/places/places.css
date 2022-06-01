@@ -1,0 +1,7 @@
+.places {
+    max-width: 984px;
+    margin: 0 auto;
+    font-family: 'Inter', 'Arial', sans-serif;
+    display: grid;
+    row-gap: 80px;
+}
