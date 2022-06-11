@@ -8,9 +8,9 @@
 
 **Технологии**
 
-*HTML5
-*CSS
-*Flexbox
-*Grid
+* HTML5
+* CSS
+* Flexbox
+* Grid
 
 
