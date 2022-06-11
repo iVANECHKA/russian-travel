@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -33,3 +34,4 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/cover/__content/cover__content.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);

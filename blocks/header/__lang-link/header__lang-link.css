@@ -1,12 +1,11 @@
 .header__lang-link {
-    margin-right: 18px;
-    text-decoration: underline;
+    padding-left: 18px;
     color: white;
+    text-decoration: none;
 }
 
-.header__lang-link:last-child {
-    margin-right: 0;
-    text-decoration: none;
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 400px) {
