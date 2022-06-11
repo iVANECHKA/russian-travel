@@ -3,5 +3,12 @@
     margin: 0 auto;
     font-family: 'Inter', 'Arial', sans-serif;
     display: grid;
-    row-gap: 80px;
+    gap: 80px;
+}
+
+@media screen and (max-width: 767px) {
+    .places {
+        max-width: 100%;
+        gap: 50px;
+    }
 }

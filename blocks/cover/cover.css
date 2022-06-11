@@ -1,17 +1,20 @@
-.lead {
-    max-width: 984px;
+.cover {
+    max-width: 1184px;
+    padding: 92px 0 92px;
     margin: 0 auto;
     font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media screen and (max-width: 1024px) {
-    .lead {
-        max-width: 90.625%;
+    .cover {
+        max-width: 100%;
+        padding: 90px 0 90px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .lead {
+    .cover {
         max-width: 100%;
+        padding: 66px 0 64px;
     }
 }
